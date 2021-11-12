@@ -1,27 +1,7 @@
-# Ignore creds file
-auth/auth.yml
-
-# Ignore orders
-order.json
-sold.json
-new_listing.json
-session.json
-
-# Ignore bot log
-bot.log
-
-# Ignore currency list
-currencies.json
-
-# Ignore pycache
-__pycache__/
-auth/__pycache__/
-
-# Ignore config
-config.yml
-
-# Ignore test file
-test_order.py
-
-
-.idea
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
